@@ -1,7 +1,7 @@
 tasks:
-  - init: git remote set-url origin git@github.com:AishwaryaTest002/repo-7190.git && sed "s/\r$//" commit-command.sh | bash && gp open README.md
+  - init: git remote set-url origin git@github.com:dineshsurya-yahoo/dineshsurya-yahoo-repo-7190.git && sed "s/\r$//" commit-command.sh | bash && gp open README.md
 vscode:
  extensions:
    - redhat.java
    - vscjava.vscode-java-debug
-   - kyntrack.rev-test-run
+   - Revaturepro-non-prod.revature-labs-non-prod
